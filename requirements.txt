@@ -1,0 +1,14 @@
+# Streamlit Web UI
+streamlit>=1.29.0
+
+# OpenAI API (GPT-4o Vision)
+openai>=1.0.0
+
+# PDF Processing
+PyMuPDF>=1.23.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0
